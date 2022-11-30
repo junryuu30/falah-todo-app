@@ -1,0 +1,20 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "todo": "melukis"
+    },
+    {
+      "id": 2,
+      "name": "Hallo"
+    },
+    {
+      "id": 3,
+      "name": "coba"
+    },
+    {
+      "id": 4,
+      "name": "hari ini mau belajar"
+    }
+  ]
+}
